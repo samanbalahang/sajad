@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'shekari';
+    src: url('fonts/A.Shekari.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  }
+@font-face {
+    font-family: 'nastaliq';
+    src: url('fonts/Nastaliq.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  }
+@font-face {
+    font-family: 'neirizi';
+    src: url('fonts/Neirizi.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  }
+@font-face {
+    font-family: 'khodkar';
+    src: url('fonts/Khodkar.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  }
+
+@font-face {
+    font-family: 'shekasteh';
+    src: url('fonts/Shekasteh.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  }
+@font-face {
+    font-family: 'yaghot';
+    src: url('fonts/W_yaghot.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+    font-family: 'yaghot';
+    src: url('fonts/BW_yaghot Bold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'yaghot';
+    src: url('fonts/W_yaghoti.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+    font-weight: lighter;
+}
+@font-face {
+    font-family: 'zar';
+    src: url('fonts/W_zar.TTF') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+    font-weight: lighter;
+}
+@font-face {
+    font-family: 'DastNevis';
+    src: url('fonts/DastNevis.otf') format('opentype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  }
+  @font-face {
+    font-family: 'BBadr';
+    src: url('fonts/BBadr.eot?#') format('eot'),  /* IE6–8 */
+         url('fonts/BBadr.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('fonts/BBadr.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  }
+.badr{
+    font-family: 'BBadr' !important;
+}
+
+.shekari{
+    font-family: 'shekari' !important;
+}
+.nastaliq{
+    font-family: 'nastaliq' !important;
+}
+.neirizi{
+    font-family: 'neirizi' !important;
+}
+.khodkar{
+    font-family: 'khodkar' !important;
+}
+.shekasteh{
+    font-family: 'shekasteh' !important;
+}
+.yaghot{
+    font-family: 'yaghot' !important;
+}
+.zar{
+    font-family: 'zar' !important;
+}
